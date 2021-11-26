@@ -1,6 +1,7 @@
 # Bayesian estimate of Probit coefficients 
-Implementation of a Metropolis Hasting and a Gibbs Sampler with auxiliary variables. Both are applied to compute a sample from the posterior distribution of the coefficients of a probit model for a binary response variable, as proposed in Albert, J. H., & Chib, S. (1993).
-The model is implemented both with conjugate (Normal) and with flat priors.
+_Last update of scripts: December 2019 (late upload on GitHub)_
+Implementation of a Metropolis Hasting and a Gibbs Sampler with auxiliary variables to sample from the posterior distribution of the coefficients of a probit model for a binary response variable, as proposed in Albert, J. H., & Chib, S. (1993).
+The model is implemented both with conjugate and with flat priors.
 
 
 ## Tutorial
