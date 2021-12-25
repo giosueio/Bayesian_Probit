@@ -13,7 +13,7 @@ The module has three functions
 
 
 
-When called, each of the functions produces a simulated sample from the posterior, and returns a trace plot centered around the true value of the parameter.
+When called, each of the functions produces a simulated sample from the posterior, and returns a trace plot.
   
   
   
